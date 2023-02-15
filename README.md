@@ -5,7 +5,7 @@
 
 ## <div align="center">Laravel + Vue CLI 3</div>
 
-
+<br>
 This demo assumes you are serving this Laravel app via Valet at `laracon.test`. If you are serving the laravel app at a different local URL, modify it accordingly in `frontend/vue.config.js`.
 
 ### To Run the Frontend
